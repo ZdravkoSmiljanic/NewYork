@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+			<title>Logo Design</title>
+			<link>https://perfect-vacation.netlify.app/</link>
+			<description>This website is designed to provide users with additional information about New York City research</description>
+		<image>
+			<title>Logo Design</title>
+			<url>https://perfect-vacation.netlify.app/favicon.ico</url>
+			<link>https://perfect-vacation.netlify.app/</link>
+			<width>90</width>
+			<height>35</height>
+		</image>
+		<item>
+			<title>Notice COVID-19</title>
+			<link>https://perfect-vacation.netlify.app/</link>
+			<description>Due to the overall situation with the corona virus, our office will not work, but everything will be online</description>
+		</item>
+	</channel>
+</rss>	
